@@ -1,0 +1,24 @@
+.header {
+    color: purpure;
+   
+    font-size: 25pt;
+   
+} 
+.button {
+      font-size: 20pt;
+      color: gray;
+
+}
+.body {
+    margin: 18px;
+    display: flex;
+    jistify-content: center;
+} 
+.title { 
+    font-size: 16pt;
+    color: blue;
+}
+.viki {
+    font-size: 16pt;
+      color: yellow;
+}
